@@ -1,1 +1,1 @@
-# Word-and-Character-counter
+# Word-and-Character-counter using HTML, CSS and Javascript
